@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/how_to_use.png" alt="How to use We Speak Input — hold Fn, speak, release, text appears at the cursor" width="880">
+</p>
+
+<p align="center">
   <img src="assets/Logo.png" alt="We Speak Input" width="420">
 </p>
 
